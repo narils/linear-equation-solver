@@ -35,7 +35,6 @@ class Matrix {
     }
 
     /**
-     *
      * @return number significant equations. Returns -1 if matrix contains inconsistent equations. (no solutions)
      */
     private int getSignificantEquations() {
